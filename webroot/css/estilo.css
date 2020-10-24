@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@500&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    padding: 15px;
+    background-color: #353540;
+}
+
+body{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+}
+
+.tarjeta{
+    position: relative;
+    width: 200px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    background-attachment: local;
+    background-position: center;
+    background-size: 100% 100%;
+    text-decoration: none;
+    transition: all 0.5s ease;
+}
+
+.tarjeta h2{
+    margin: auto 0;
+    z-index: 99;
+    color: black;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 2em;   
+}
+
+.tarjeta:hover{
+    transform: rotateX(10deg) translateY(-10px);
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,1);
+}
+
+.tarjeta1 {
+    background-image: url('../images/238082.jpg');
+}
+
+.tarjeta2{
+    background-image: url('../images/Fondo-de-pantalla-de-arbol.jpg');
+}
