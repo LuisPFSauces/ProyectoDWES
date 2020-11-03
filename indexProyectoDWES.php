@@ -1,32 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="webroot/css/estilo.css">
-        <title>Document</title>
+        <link rel="stylesheet" href="./webroot/css/estilo.css">
+        <title>Proyecto DWES</title>
     </head>
 
     <body>
-        <a href="doc/20200925EjercicioTema1_LuisPuente.pdf" class="tarjeta tarjeta1">
-            <h2>Tema 1</h2>
-        </a>
-        <a href="doc/2020-09-29-Manual.pdf" class="tarjeta tarjeta2">
-            <h2>Tema 2</h2>
-        </a>
-        <a href="proyectoTema3/indexProyectoTema3.php" class="tarjeta tarjeta1">
-            <h2>Tema 3</h2>
-        </a>
-        <a href="webroot/css/estilo.css" class="tarjeta tarjeta1">
-            <h2>Tema 1</h2>
-        </a>
-        <a href="webroot/css/estilo.css" class="tarjeta tarjeta1">
-            <h2>Tema 1</h2>
-        </a>
-         <a href="../index.html" class="tarjeta tarjeta2">
-            <h2>Atras</h2>
-        </a>
+        <header>
+            <h1>Proyecto DWES</h1>
+            <h2>Luis Puente Fernandez</h2>
+        </header>
+        <main>
+            <ul>
+
+                <li><a href="doc/20200925EjercicioTema1_LuisPuente.pdf">Tema 1</a></li>
+                <li><a href="doc/2020-09-29-Manual.pdf">Tema 2</a></li>
+                <li><a href="proyectoTema3/indexProyectoTema3.php">Tema 3</a></li>
+                <li><a href="proyectoTema3/indexProyectoTema4.php">Tema 4</a></li>
+
+            </ul>
+        </main>
+
+        <footer>
+            2020-2021 - Luis Puente Fernandez - luis.puefer@educa.jcyl.es <a href=""><img src="./webroot/images/curriculum.png" alt="curriculum" width="32px"></a> <a href=""><img src="./webroot/images/gitHub.png" alt="gitHub" height="32px"></a>
+        </footer>
+
     </body>
 
 </html>
