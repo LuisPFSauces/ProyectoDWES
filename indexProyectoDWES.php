@@ -19,7 +19,7 @@
                 <li><a href="doc/20200925EjercicioTema1_LuisPuente.pdf">Tema 1</a></li>
                 <li><a href="doc/2020-09-29-Manual.pdf">Tema 2</a></li>
                 <li><a href="proyectoTema3/indexProyectoTema3.php">Tema 3</a></li>
-                <li><a href="proyectoTema3/indexProyectoTema4.php">Tema 4</a></li>
+                <li><a href="proyectoTema4/indexProyectoTema4.php">Tema 4</a></li>
 
             </ul>
         </main>
