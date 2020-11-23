@@ -20,7 +20,8 @@
                 <li><a href="doc/2020-09-29-Manual.pdf">Tema 2</a></li>
                 <li><a href="proyectoTema3/indexProyectoTema3.php">Tema 3</a></li>
                 <li><a href="proyectoTema4/indexProyectoTema4.php">Tema 4</a></li>
-                <li><a href="mtoDepartamentos/mtoDepartamentos.php">Departamentos</a></li>
+                <li><a href="mtoDepartamentos/mtoDepartamentos.php">mtoDepartamentos</a></li>
+                <li><a href="proyectoTema5/indexProyectoTema5.php">Tema 5</a></li>
             </ul>
         </main>
 
