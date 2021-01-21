@@ -23,6 +23,7 @@
                 <li><a href="mtoDepartamentos/mtoDepartamentos.php">mtoDepartamentos</a></li>
 		<li><a href="proyectoTema5/indexProyectoTema5.php">Tema 5</a></li>
 		<li><a href="LoginLogoffTema5/Login.php">LoginLogoffTema5</a></li>
+                <li><a href="LoginLogoffTema6/index.php">LoginLogoffTema6</a></li>
 
             </ul>
         </main>
